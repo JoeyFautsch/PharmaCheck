@@ -1,0 +1,36 @@
+Drug Name,Condition,Warning Type,Description
+Warfarin,Pregnancy,Contraindicated,Teratogenic and risk of fetal bleeding — avoid in pregnancy
+Methotrexate,Pregnancy,Contraindicated,High risk of fetal malformation and miscarriage
+Lisinopril,Pregnancy,Contraindicated,May cause fetal renal damage or death
+Tetracycline,Breastfeeding,Use with caution,Excreted in breast milk — may affect bone/tooth development
+NSAIDs,Renal impairment,Use with caution,Can reduce renal perfusion and precipitate renal failure
+Metformin,Renal impairment,Use with caution,Risk of lactic acidosis with reduced clearance
+Paracetamol,Hepatic impairment,Use with caution,Dose adjustments needed — hepatotoxic in high doses
+Statins,Hepatic impairment,Contraindicated,Increased risk of liver toxicity
+Corticosteroids,Diabetes,Use with caution,Can worsen glycemic control
+Beta-blockers,Diabetes,Use with caution,May mask signs of hypoglycemia
+Ibuprofen,Cardiovascular disease,Use with caution,May raise blood pressure and increase MI risk
+Erythromycin,Cardiac arrhythmias,Use with caution,Prolongs QT interval — arrhythmia risk
+Tramadol,Seizure history,Use with caution,Lowers seizure threshold
+Tramadol,Psychiatric conditions,Use with caution,Risk of serotonin syndrome or suicidal ideation
+Fluoroquinolones,Seizure history,Use with caution,Can induce seizures
+Aspirin,GI ulcer history,Use with caution,Increased risk of GI bleeding and ulceration
+NSAIDs,GI ulcer history,Use with caution,Major cause of peptic ulcers and bleeding
+Beta-blockers,Asthma,Use with caution,Risk of bronchospasm — especially non-selective types
+Spironolactone,Hyperkalemia,Contraindicated,May significantly worsen hyperkalemia
+ACE inhibitors,Hyperkalemia,Use with caution,Inhibit K+ excretion — monitor levels
+Estrogen,History of DVT/PE,Contraindicated,Increases risk of thrombosis
+Tranexamic acid,History of DVT/PE,Use with caution,Pro-thrombotic agent
+Aspirin,Children,Contraindicated,Risk of Reye’s syndrome
+Clozapine,Smoking,Use with caution,Smoking induces CYP1A2 — alters drug levels
+Disulfiram,Alcohol use,Contraindicated,Leads to severe reactions with alcohol
+Beta-blockers,Heart failure,Can worsen acute decompensated HF (start low, go slow)
+NSAIDs,Heart failure,Use with caution,Can lead to fluid retention and decompensation
+Digoxin,Kidney failure,Use with caution,Narrow therapeutic index — toxicity risk with reduced clearance
+Amiodarone,Cardiac arrhythmias,Use with caution,May prolong QT and worsen arrhythmias
+Methotrexate,Immunosuppression,Use with caution,May cause profound myelosuppression or infection risk
+Live vaccines,Immunosuppression,Contraindicated,Live pathogens pose risk in immunocompromised patients
+Anthracyclines,Chemotherapy history,Use with caution,Cumulative cardiotoxicity — risk of HF
+Penicillin,Allergies,Contraindicated,Known anaphylactic reactions in allergic patients
+Sulfonamides,Allergies,Contraindicated,High allergy cross-reactivity in sulfa-sensitive individuals
+Benzodiazepines,Elderly, Risk of falls sedation confusion
